@@ -7,6 +7,7 @@ Original repo by [max13fr](https://github.com/max13fr/synology-real-debrid-v2)
 **real-debrid v2 host** helps you download files using [Realdebrid](http://real-debrid.com/?id=7413222) with absolute ease, simply paste your file host/sharing links into the Download Station and wait for them to download.
 
 ## Getting Started
+- Download the latest release of [realdebrid_v2.host](https://github.com/renb0/synology-real-debrid-v2/releases/latest/download/realdebrid_v2.host) and save somewhere
 - Login to your Synology DiskStation, then launch **Download Station**
 - Open **Settings** using the ⚙️ icon at the bottom left
 - From the menu on the left, click **File Hosting**
