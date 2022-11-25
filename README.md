@@ -52,4 +52,4 @@ After modifying either `INFO` or `api.php`, the files must be gzipped for upload
 
 `tar zcf realdebrid.host INFO api.php`
 
-then upload the resulting file `realrebrid_v2.host`, as described in [Getting Started](#getting-started)
+then upload the resulting file `realrebrid.host`, as described in [Getting Started](#getting-started)
