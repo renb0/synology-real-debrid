@@ -13,7 +13,7 @@ define('DOWNLOAD_ISPARALLELDOWNLOAD', 'isparalleldownload');//Task can download 
 define('DOWNLOAD_COOKIE', 'cookiepath');
 define('API_URL', 'https://api.real-debrid.com/rest/1.0');
 
-class RealDebridV2FileHost
+class RealDebridFileHost
 {
     private $url, $user, $pass, $hostInfo;
 
