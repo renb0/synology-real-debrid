@@ -38,7 +38,7 @@ Add your own URLs to the `INFO` file
     "class": "RealDebridV2FileHost",
     "description": "Real-Debrid.com",
     "displayname": "Real-Debrid V2",
-    "hostprefix": "1fichier.co,2shared.com, ...", /* Add your own */
+    "hostprefix": "1fichier.co,2shared.com, ...",
     "module": "realdebrid_v2.php",
     "name": "realdebrid_v2",
     "version": "1"
