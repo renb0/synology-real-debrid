@@ -1,5 +1,5 @@
 # Synology : real-debrid host
-Original repo by [max13fr](https://github.com/max13fr/synology-real-debrid)
+Original repo by [max13fr](https://github.com/max13fr/synology-real-debrid-v2)
 
 ## What is this?
 [Realdebrid](http://real-debrid.com/?id=7413222) is a premium downloader for many supported file host/sharing sites, it's much cheaper and economic than paying for multiple file sharing services.
